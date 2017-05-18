@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:6:5-19:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Martin\.android\build-cache\c78c0967e1f701d5bdf7bfaa1057aca978e23feb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Martin\.android\build-cache\24b494a7cfb040fe6e0ee765b918d6c17c8802b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Martin\.android\build-cache\20da1132deb3b1d8a226137116ed15d80a45f37e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Martin\.android\build-cache\af8d007e92bf0a5c29eed9449e6129f43aec69c1\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Martin\.android\build-cache\26c2c7f606efe76265096668e4d419e9cd740905\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Martin\.android\build-cache\f1a999c72a20863a5e285a8bcdc655f8f6b476b2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Martin\.android\build-cache\c1275f6928fa6fa05dc429aa6713b3304603a48d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Martin\.android\build-cache\e66bce6848175293856b52dec681966a23e4da50\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Martin\.android\build-cache\407c265379b762030ddcfa6415b32b454e6b6591\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Martin\.android\build-cache\d13b8bd0af73716db7d3787740a13bf343c8dfa6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Martin\.android\build-cache\1c3e50b75dac0227d4c963d4f6065368c2e0d5a2\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:10:9-51
+activity#com.example.martin.flight_tab_blue.MainActivity
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Martin\.android\build-cache\c78c0967e1f701d5bdf7bfaa1057aca978e23feb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Martin\.android\build-cache\24b494a7cfb040fe6e0ee765b918d6c17c8802b8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Martin\.android\build-cache\20da1132deb3b1d8a226137116ed15d80a45f37e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Martin\.android\build-cache\af8d007e92bf0a5c29eed9449e6129f43aec69c1\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Martin\.android\build-cache\ce22aa152ce8a43ec5b952afd406ff3f83879bfb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Martin\.android\build-cache\26c2c7f606efe76265096668e4d419e9cd740905\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Martin\.android\build-cache\f1a999c72a20863a5e285a8bcdc655f8f6b476b2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Martin\.android\build-cache\c1275f6928fa6fa05dc429aa6713b3304603a48d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Martin\.android\build-cache\e66bce6848175293856b52dec681966a23e4da50\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Martin\.android\build-cache\407c265379b762030ddcfa6415b32b454e6b6591\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Martin\.android\build-cache\d13b8bd0af73716db7d3787740a13bf343c8dfa6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Martin\.android\build-cache\1c3e50b75dac0227d4c963d4f6065368c2e0d5a2\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Martin\.android\build-cache\c78c0967e1f701d5bdf7bfaa1057aca978e23feb\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\AndroidStudioProjects\Flight_Tab_Blue\app\src\main\AndroidManifest.xml

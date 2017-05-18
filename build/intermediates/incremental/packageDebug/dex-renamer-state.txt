@@ -1,0 +1,7 @@
+#Thu May 18 17:35:01 CEST 2017
+base.0=C\:\\Users\\Martin\\AndroidStudioProjects\\Flight_Tab_Blue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1220bd2a12ae0c53d80645c09d7ec92f5703e385
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Martin\\AndroidStudioProjects\\Flight_Tab_Blue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1440ed00309ada3c4e80224787d071476e9f05d2\\classes.dex
+base.1=C\:\\Users\\Martin\\AndroidStudioProjects\\Flight_Tab_Blue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1440ed00309ada3c4e80224787d071476e9f05d2
+file.0=C\:\\Users\\Martin\\AndroidStudioProjects\\Flight_Tab_Blue\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1220bd2a12ae0c53d80645c09d7ec92f5703e385\\classes.dex
