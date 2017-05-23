@@ -104,6 +104,7 @@ public class MainActivity extends Activity {
         Toast.makeText(getApplicationContext(), "Bluetooth deaktiviert",Toast.LENGTH_LONG).show();
     }
     }
+
     public void start (View v) throws Exception{
     try {
         BA_K_C.paired_dev();

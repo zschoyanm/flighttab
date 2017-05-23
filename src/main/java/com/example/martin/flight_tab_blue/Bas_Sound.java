@@ -13,7 +13,6 @@ public class Bas_Sound {
     static ToneGenerator warning;
 
 
-
     public Bas_Sound(){
         warning = new ToneGenerator(AudioManager.STREAM_MUSIC,(int)(ToneGenerator.MAX_VOLUME * 0.8));
     }
